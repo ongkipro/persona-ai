@@ -1,0 +1,23 @@
+{
+  "name": "persona-ai",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.42.3",
+    "@lucide/astro": "^1.47.0",
+    "astro": "^7.3.4",
+    "lucide": "^1.47.0"
+  },
+  "allowScripts": {
+    "esbuild": true
+  }
+}

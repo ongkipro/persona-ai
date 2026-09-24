@@ -1,0 +1,14 @@
+{
+  "activeRun": null,
+  "lastRun": {
+    "finishedAt": "2026-09-24T07:24:54Z",
+    "result": "PASS",
+    "runId": "RUN-20260924T072450Z-9ecf9ca6"
+  },
+  "observedHead": null,
+  "observedState": "PLANNED",
+  "project": "persona-ai",
+  "schemaVersion": 1,
+  "statusAuthority": "STATUS.md",
+  "updatedAt": "2026-09-24T07:24:54Z"
+}
