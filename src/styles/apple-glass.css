@@ -452,6 +452,7 @@ starlight-toc li a.current {
   pointer-events: auto !important;
   transform: none !important;      /* NO zoom in or scale effect */
   transition: none !important;     /* Instant, no zoom animations */
+  content-visibility: auto;        /* Offscreen images skip layout calculations for fast load */
 }
 
 .sl-markdown-content img:hover,

@@ -10,6 +10,36 @@ export default defineConfig({
 			title: 'Persona AI',
 			description: 'Minimalist Digital Playbook for Consistent AI Characters & Influencers',
 			customCss: ['./src/styles/apple-glass.css'],
+			head: [
+				{
+					tag: 'link',
+					attrs: {
+						rel: 'preconnect',
+						href: 'https://fonts.googleapis.com',
+					},
+				},
+				{
+					tag: 'link',
+					attrs: {
+						rel: 'preconnect',
+						href: 'https://fonts.gstatic.com',
+						crossorigin: '',
+					},
+				},
+				{
+					tag: 'script',
+					content: `
+						// Native fast load: enable lazy loading & async decoding for markdown images
+						document.addEventListener('DOMContentLoaded', () => {
+							const imgs = document.querySelectorAll('.sl-markdown-content img');
+							for (let i = 0; i < imgs.length; i++) {
+								if (i > 0) imgs[i].setAttribute('loading', 'lazy');
+								imgs[i].setAttribute('decoding', 'async');
+							}
+						});
+					`,
+				},
+			],
 			social: [
 				{
 					icon: 'github',
