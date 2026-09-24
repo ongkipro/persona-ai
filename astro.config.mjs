@@ -12,9 +12,9 @@ export default defineConfig({
 			customCss: ['./src/styles/apple-glass.css'],
 			social: [
 				{
-					icon: 'telegram',
-					label: 'Telegram Community',
-					href: 'https://t.me/+1NpdH0Kfjo44Mjc1',
+					icon: 'github',
+					label: 'GitHub',
+					href: 'https://github.com/ongkipro/persona-ai',
 				},
 			],
 			sidebar: [

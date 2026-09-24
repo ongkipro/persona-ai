@@ -139,8 +139,6 @@ Cara paling praktis: gunakan <mark class="brush-green">Flow Tools</mark> yang su
 
 Pada tahap post-processing kita menggunakan <mark class="brush-yellow">CapCut</mark> untuk color grading, timing cuts, penambahan B-roll, serta sinkronisasi suara.
 
-- <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/></svg> [Rekomendasi Akses CapCut Pro — Nana Digital Store](https://web.telegram.org/k/#@nanadigitalstore_bot)
-
 > [!TIP]
 > **Asset Pendukung Produksi:**
 > - <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/></svg> [Download 200+ Sound Effect Pack (Google Drive)](https://drive.google.com/drive/folders/1-X-ierXlYXzQEPUcivoEXe0N4F5EKJvc?usp=sharing)

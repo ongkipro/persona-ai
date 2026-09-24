@@ -60,67 +60,31 @@ Layanan "unlimited" murah biasanya hanya trik mengakali kuota yang cepat mati (K
 
 ---
 
-Saat ini cara paling efisien dan terjangkau untuk men-generate motion control adalah melalui Bot Telegram khusus.
+Untuk menghasilkan video dengan kontrol gerak dinamis (*motion control*), kita menggunakan teknik transfer gerakan dari video referensi ke aset foto karakter model.
 
-## Analisis Platform: Bot Telegram
+## Analisis Metode Motion Control (Engine AI Video)
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><circle cx="12" cy="12" r="10"/><path d="m16 9-5.5 5.5L8 12"/></svg> Kelebihan
+### <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><circle cx="12" cy="12" r="10"/><path d="m16 9-5.5 5.5L8 12"/></svg> Kelebihan Motion Control
 
 | Aspek | Penjelasan |
 | --- | --- |
-| **Praktis & Mobile** | Langsung dari smartphone melalui chat messaging yang sudah digunakan sehari-hari. |
-| **Cepat & Sederhana** | Upload foto model → Upload video referensi → kirim → terima notifikasi saat selesai. |
-| **Biaya Efisien** | Berbasis saldo pay-as-you-go sehingga tidak terikat langganan bulanan mahal. |
-| **Akses Multi-Model** | Satu bot dapat menyediakan berbagai engine terkemuka (Kling, Hailuo, Seedance, Veo). |
-| **Notifikasi Otomatis** | Hasil render langsung dikirim kembali ke ruang chat. |
+| **Konsistensi Koreografi** | Mengikuti gesture tangan, arah pandangan mata, dan timing bicara secara presisi dari video acuan. |
+| **Cepat & Terarah** | Menghilangkan trial & error gerakan acak yang sering terjadi pada prompt teks murni. |
+| **Kualitas Sinematik** | Memanfaatkan pergerakan kamera dinamis (pan, tilt, orbit) dari video rekaman asli. |
+| **Akses Multi-Platform** | Didukung engine terkemuka seperti Kling AI, Higgsfield, dan Google Flow. |
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#f43f5e" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg> Keterbatasan
+### <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#f43f5e" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg> Keterbatasan & Tantangan
 
 | Keterbatasan | Penjelasan |
 | --- | --- |
-| **Kontrol Terbatas** | Tanpa timeline video, camera pathing, start/end frame control, atau setting parameter rumit. |
-| **Manajemen Riwayat** | Hasil menumpuk di chat room, memerlukan manajemen penyimpanan manual. |
-| **Latensi Render** | Waktu antrean generate bergantung pada beban server bot pihak ketiga. |
-
-### Waspada Jebakan "Unlimited Murah"
-
-Jika ada layanan yang menawarkan "unlimited video AI" dengan harga tidak masuk akal, pahami risiko tersembunyinya:
-- Kompresi bitrate berlebihan yang merusak detail pori dan serat kain.
-- Potensi penyalahgunaan aset wajah model di luar kendali kamu.
-- Ketidakjelasan lisensi komersial untuk kebutuhan brand.
-- <mark class="brush-coral">Layanan rentan ditutup sepihak (KOID)</mark> ketika API endpoint diputus penyedia resmi.
-
+| **Distorsi Framing** | Jika rasio badan video referensi berbeda dengan foto (misal full-body dipasangkan ke close-up), leher atau bahu rawan terdistorsi. |
+| **Face Drift pada Gerak Ekstrem** | Putaran kepala lebih dari 90 derajat dapat menyebabkan detail fitur wajah bergeser. |
+| **Kompresi Bitrate** | Pastikan menggunakan resolusi tinggi minimal 1080p agar detail pori dan helai rambut tetap terjaga. |
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;margin:1.75rem 0;box-shadow:0 8px 30px rgba(0,0,0,0.12);border:1px solid rgba(255,255,255,0.1);">
   <iframe src="https://www.youtube-nocookie.com/embed/xp7wv1LVZYY" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p style="text-align:center;font-size:0.875rem;margin-top:-1rem;margin-bottom:1.5rem;"><a href="https://youtu.be/xp7wv1LVZYY" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M5 5a2 2 0 0 1 3.008-1.728l11.997 6.998a2 2 0 0 1 .003 3.458l-12 7A2 2 0 0 1 5 19z"/></svg> Tonton di YouTube</a></p>
-
-
-Saya rekomendasikan menggunakan beberapa Daftar BOT TELEGRAM untuk generate MOTION CONTROL melalu link berikut:
-
-REKOMENDASI BOT TELEGRAM TERPERCAYA, Yang sudah saya coba
-
-***ADEN STUDIO:***
-
-<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/></svg> [Adenbot — AI Video on Telegram](https://alatkreator.com/bot/8620458357)
-
-***POSTMOTION:***
-
-<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/></svg> [PosBot_Motion](https://t.me/PosMotion_bot?start=ref_86204583574855)
-
-***CHUILABS:***
-
-<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/></svg> [CHUI Labs](https://t.me/ChuiLabs_bot?start=ref_8620458357)
-
-***AlrizMotion BOT***
-
-<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/></svg> [AlrizMotion BOT](https://t.me/alrizmotionbot?start=ref_8620458357)
-
-Daftar bot di atas merupakan opsi pay-as-you-go yang terbukti andal untuk memproduksi motion video tanpa komitmen biaya bulanan.
-
-> [!NOTE]
-> Bot-bot tersebut merupakan tool pihak ketiga yang terbukti stabil untuk produksi harian. Kamu bisa bergabung dengan grup support masing-masing bot untuk update teknis.
 
 ## 3 Langkah Produksi Motion Control
 
@@ -158,11 +122,9 @@ Berikut perbandingan sebelum dan sesudah transfer DNA:
 > - Video referensi *half-body* (setengah badan) → foto karakter wajib *half-body*.
 > - Video referensi *full-body* (seluruh tubuh) → foto karakter wajib *full-body*.
 
-### Step 3 — Generate Video via Bot Telegram
+### Step 3 — Generate Video Motion Control
 
-Upload foto karakter yang sudah di-swap beserta video referensi ke bot Telegram:
-
-<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/></svg> [Adenbot — AI Video on Telegram](https://alatkreator.com/bot/8620458357)
+Upload foto karakter yang sudah ditransfer DNA-nya beserta video referensi ke engine video AI (seperti Kling AI Motion Control, Higgsfield, atau Google Flow):
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;margin:1.75rem 0;box-shadow:0 8px 30px rgba(0,0,0,0.12);border:1px solid rgba(255,255,255,0.1);">
   <iframe src="https://www.youtube-nocookie.com/embed/dSsl5qpAAUM" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -171,7 +133,7 @@ Upload foto karakter yang sudah di-swap beserta video referensi ke bot Telegram:
 
 ### Formula Prompt Motion Control (Anti-Morphing)
 
-Gunakan prompt pengunci ini di kolom deskripsi bot untuk hasil presisi tinggi:
+Gunakan prompt pengunci ini di kolom teks prompt video generator untuk hasil presisi tinggi:
 
 - <mark class="brush-yellow">Identity Lock</mark> → Mengunci 100% wajah, pori-pori, dan undertone kulit dari foto model.
 - <mark class="brush-blue">Camera Lock</mark> → Mengunci tripod dan focal length agar tidak goyang.

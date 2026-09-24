@@ -44,15 +44,7 @@ Setiap akun Gmail yang terdaftar di Google Flow mendapatkan jatah kredit gratis 
 
 ![Google Flow Gemini Pro Tier](/images/flow_ai_04_3a0cd19d.png)
 
-Untuk kreator yang memerlukan kuota stabil tanpa bergantung pada kuota harian 50 kredit, berlangganan akun **Gemini Pro** memberikan alokasi **1.000 kredit Flow setiap bulan**.
-
-#### Jalur Akses Langganan Hemat Gemini Pro
-
-> [!NOTE]
-> Layanan pihak ketiga di bawah merupakan referensi akun hemat yang terbukti stabil untuk aktivasi tools AI premium (termasuk Gemini Pro dan ChatGPT Plus).
-
-- <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/></svg> [Raidigital Store — Penyedia Akses AI Tools](https://web.telegram.org/a/#8865696772)
-- <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/></svg> [Nana Digital Store Telegram Bot](https://web.telegram.org/a/#8804783849)
+Untuk kreator yang memerlukan kuota stabil tanpa bergantung pada kuota harian 50 kredit, berlangganan akun **Gemini Pro** memberikan alokasi **1.000 kredit Flow setiap bulan** langsung melalui ekosistem Google One / Google AI Studio.
 
 ---
 

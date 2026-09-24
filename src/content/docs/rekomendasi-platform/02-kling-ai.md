@@ -11,11 +11,11 @@ description: "Panduan Persona AI: KLING AI"
 
 ### Apa Itu <mark class="brush-blue">Kling AI</mark>?
 
-<mark class="brush-blue">Kling AI</mark> adalah **platform AI video & gambar buatan Kuaishou (perusahaan China)** — dan ini **sumber aslinya** (*first-party*). Bedanya dengan <mark class="brush-blue">Higgsfield</mark>:
+<mark class="brush-blue">Kling AI</mark> adalah **platform AI video & gambar buatan Kuaishou (perusahaan China)** — dan ini adalah **pengembang resminya** (*first-party*). Bedanya dengan <mark class="brush-blue">Higgsfield</mark>:
 
 | Aspek | <mark class="brush-blue">Kling AI</mark> | <mark class="brush-blue">Higgsfield</mark> |
 | --- | --- | --- |
-| **Jenis Platform** | **Sumber Asli** (Penyedia model Kling langsung) | **Agregator** (Menyediakan aneka model pihak ketiga) |
+| **Jenis Platform** | **Penyedia Langsung** (First-party developer) | **Agregator** (Menyediakan aneka model pihak ketiga) |
 | **Koleksi Model** | Khusus ekosistem Kling (paling mutakhir) | Kling + Seedance + Grok + Gemini |
 | **Keunggulan** | Rilis fitur & update arsitektur lebih cepat | Kemudahan fleksibilitas dalam 1 langganan |
 

@@ -97,3 +97,22 @@ Record only durable implementation changes, validation evidence, and gotchas tha
   - `pnpm build`: passed in 1.58s across 26 pages.
   - `project-check /Users/ongki/Projects/persona-ai`: VERIFIED (1/1 checks passed).
   - Dev server HTTP 200 verified at `http://localhost:4321`.
+
+## 2026-09-24 — Removal of External Sources & Telegram References
+
+- **Removal of Telegram References**:
+  - `astro.config.mjs`: Replaced Telegram social link with official GitHub repository link.
+  - `src/content/docs/index.md`: Replaced external Telegram community and third-party sales cards with internal curriculum cards (Bab 2 Character Consistency & Bab 3 Real Video Production).
+  - `src/content/docs/bab-2-character-ai/01-membuat-character-sheet.md`: Removed external reseller/Telegram bot links.
+  - `src/content/docs/bab-3-real-project/01-tips-motion-control.md`: Replaced Bot Telegram section with general AI video engine motion control analysis, and eliminated all Telegram bot affiliate links.
+  - `src/content/docs/bab-3-real-project/03-talking-head-master-dan-editing.md`: Removed CapCut Pro reseller Telegram link.
+  - `src/content/docs/bab-3-real-project/04-membuat-podcast-ai.md`: Removed ElevenLabs reseller Telegram links.
+  - `src/content/docs/rekomendasi-platform/06-flow-ai.md`: Removed third-party Telegram bot links for Gemini Pro.
+- **Removal of External Sources & Referral Credits**:
+  - `src/content/docs/overview/00-analisis-dan-strategi.md`: Removed Notion external source URL and creator tag.
+  - `src/content/docs/rekomendasi-platform/04-qreed-ai.md`: Replaced affiliate referral link with official `https://qreed.ai` URL.
+  - `src/content/docs/rekomendasi-platform/02-kling-ai.md`: Standardized "sumber asli" phrasing to first-party developer terminology.
+- **Verification**:
+  - Python scanner confirmed 0 remaining Telegram references in docs.
+  - `pnpm build`: passed in 1.87s.
+  - `project-check`: VERIFIED (1/1 checks passed).

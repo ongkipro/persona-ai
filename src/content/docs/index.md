@@ -22,13 +22,13 @@ Panduan produksi **AI INFLUENCER** profesional untuk media sosial (TikTok, Insta
     <div class="glass-card-title"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><circle cx="12" cy="12" r="10"/><path d="m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"/></svg> Mulai Belajar (Bab 1)</div>
     <p class="glass-card-desc">Pola pikir creator AI, efisiensi alur kerja, dan teknik prompt anti-random.</p>
   </a>
-  <a href="https://t.me/+1NpdH0Kfjo44Mjc1" target="_blank" rel="noopener noreferrer" class="glass-card">
-    <div class="glass-card-title"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z"/></svg> Komunitas Telegram</div>
-    <p class="glass-card-desc">Ruang diskusi, sharing hasil render, dan konsultasi kendala teknis sesama creator.</p>
+  <a href="/bab-2-character-ai/01-membuat-character-sheet/" class="glass-card">
+    <div class="glass-card-title"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg> Konsistensi Karakter (Bab 2)</div>
+    <p class="glass-card-desc">Kunci identitas wajah permanen (Zero Face Drift), Contact Sheet 3×3, dan transfer DNA.</p>
   </a>
-  <a href="https://chat.whatsapp.com/HM7UrrD5mu16I16jgKzRHp?s=cl&p=a&mlu=4&ilr=4" target="_blank" rel="noopener noreferrer" class="glass-card">
-    <div class="glass-card-title"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M16 10a4 4 0 0 1-8 0"/><path d="M3.103 6.034h17.794"/><path d="M3.4 5.467a2 2 0 0 0-.4 1.2V20a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6.667a2 2 0 0 0-.4-1.2l-2-2.667A2 2 0 0 0 17 2H7a2 2 0 0 0-1.6.8z"/></svg> Langganan AI Tools</div>
-    <p class="glass-card-desc">Akses langganan hemat (Gemini Pro, ChatGPT Plus, Kling) via WhatsApp & Telegram Bot.</p>
+  <a href="/bab-3-real-project/01-tips-motion-control/" class="glass-card">
+    <div class="glass-card-title"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><polygon points="5 3 19 12 5 21 5 3"/></svg> Produksi Video (Bab 3)</div>
+    <p class="glass-card-desc">Motion control kamera, workflow Talking Head, studio podcast AI, dan editing akhir.</p>
   </a>
 </div>
 

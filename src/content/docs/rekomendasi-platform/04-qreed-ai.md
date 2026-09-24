@@ -5,7 +5,7 @@ description: "Panduan Persona AI: Review platform Qreed AI, platform aggregator 
 
 ![Qreed AI Interface](/images/qreed_ai_01_588cd19d.png)
 
-<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg> Akses Platform: [https://app.qreed.ai/a/ali-wardana](https://app.qreed.ai/a/ali-wardana)
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg> Akses Platform: [https://qreed.ai](https://qreed.ai)
 
 ## Platform Overview: Qreed AI
 
@@ -101,4 +101,4 @@ Rata-rata pemotongan kredit per eksekusi:
 
 Bagi yang menginginkan workflow praktis membuat persona AI Influencer beresolusi tinggi dengan alokasi biaya bersahabat dan metode pembayaran lokal tanpa ribet, platform ini merupakan salah satu rekomendasi utama.
 
-- <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg> [Registrasi & Akses Qreed AI](https://app.qreed.ai/a/ali-wardana)
+- <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-inline"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg> [Kunjungi Situs Resmi Qreed AI](https://qreed.ai)

@@ -4,14 +4,13 @@ description: "Panduan Persona AI: ANALISIS MENDALAM: AI INFLUENCER WORKFLOW"
 ---
 
 > **Dokumen Analisis Arsitektur Sistem, Evaluasi Workflow, dan Strategi Eksekusi**  
-> Sumber Asli: [Notion AI INFLUENCER WORKFLOW](https://app.notion.com/p/AI-INFLUERNCER-WORKFLOW-391cd19d233280bbb150d3f6192605dc)  
-> Analisis disusun untuk: **Paduka Ongki**
+> Disusun untuk: **Paduka Ongki**
 
 ---
 
 ## 1. Executive Summary & Inti Konsep
 
-Workflow ini dirancang khusus oleh kreator (@promptly.id / Dealy) untuk menyelesaikan tantangan terbesar dalam pembuatan konten **AI Influencer** (khususnya untuk affiliate marketing TikTok/Instagram/Shorts):
+Workflow ini dirancang khusus untuk menyelesaikan tantangan terbesar dalam pembuatan konten **AI Influencer** (khususnya untuk affiliate marketing TikTok/Instagram/Shorts):
 1. **Konsistensi Karakter (Zero Face Drift)**: Menjaga wajah, proporsi, tekstur kulit, dan outfit model tetap sama di setiap scene.
 2. **Efisiensi Biaya (Cost-Effective Production)**: Memanfaatkan tool gratis/tier hemat (<mark class="brush-blue">Google Flow</mark>, Gemini GEMs, ChatGPT) sebelum beralih ke engine berbayar (<mark class="brush-blue">Kling AI</mark>, <mark class="brush-blue">Higgsfield</mark>, Leonardo).
 3. **Realistis & Anti-CGI (Uncanny Valley Removal)**: Menghindari look plastik/kartun dengan teknik unedited amateur snapshot, visible pores, micro-movement, dan lighting matching.
